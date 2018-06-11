@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Centerpartiet",
+      "val2014": "6.1",
+      "name_short": "C",
+      "val2010": "6.6",
+      "val": 0,
+      "color": "#66ff66"
+    },
+    {
+      "name": "Feministiskt initiativ",
+      "val2014": "3.1",
+      "name_short": "FI",
+      "val2010": "0.4",
+      "val": 0,
+      "color": "#FF69B4"
+    },
+    {
+      "name": "Folkpartiet liberalerna",
+      "val2014": "5.4",
+      "name_short": "FP",
+      "val2010": "7.0",
+      "val": 0,
+      "color": "#ADD8E6"
+    },
+    {
+      "name": "Kristdemokraterna",
+      "val2014": "4.6",
+      "name_short": "KD",
+      "val2010": "5.6",
+      "val": 0,
+      "color": "#4B0082"
+    },
+    {
+      "name": "Moderaterna",
+      "val2014": "23.3",
+      "name_short": "M",
+      "val2010": "30.0",
+      "val": 0,
+      "color": "#00008B"
+    },
+    {
+      "name": "Miljöpartiet de gröna",
+      "val2014": "6.9",
+      "name_short": "MP",
+      "val2010": "7.3",
+      "val": 0,
+      "color": "#7CFC00"
+    },
+    {
+      "name": "Arbetarepartiet-Socialdemokraterna",
+      "val2014": "31.0",
+      "name_short": "S",
+      "val2010": "30.7",
+      "val": 0,
+      "color": "#ff0000"
+    },
+    {
+      "name": "Sverigedemokraterna",
+      "val2014": "12.9",
+      "name_short": "SD",
+      "val2010": "5.7",
+      "val": 0,
+      "color": "#ffff00"
+    },
+    {
+      "name": "Vänsterpartiet",
+      "val2014": "5.7",
+      "name_short": "V",
+      "val2010": "5.6",
+      "val": 0,
+      "color": "#8B0000"
+    },
+    {
+      "name": "Övriga partier",
+      "val2014": "1",
+      "name_short": "OVR",
+      "val2010": "1",
+      "val": 0,
+      "color": "#cccccc"
+    }
+  ]
